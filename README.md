@@ -2,18 +2,18 @@
 
 This is a template project for python projects.
 
-### Features
+## Features
 
--   Pre-commit with `isort`, `yapf`, `flake8`, `trailing-whitespace`, etc.
--   Setup script.
+- Pre-commit with `isort`, `yapf`, `flake8`, `trailing-whitespace`, etc.
+- Setup script.
 
-### Usage
+## Usage
 
--   Clone the repo and delete the `.git` folder
--   Change the `template` folder to your `projectname`.
--   Replace all `template` word in `setup.py` with your `projectname`.
+- Clone the repo and delete the `.git` folder
+- Change the `template` folder to your `projectname`.
+- Replace all `template` word in `setup.py` with your `projectname`.
 
-### Development Guide
+## Development Guide
 
 ```bash
 # install formatter
@@ -27,7 +27,7 @@ pre-commit install
 pre-commit run --all-files
 ```
 
-### Install
+## Install
 
 ```bash
 # for development
