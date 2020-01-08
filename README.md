@@ -9,7 +9,7 @@ This is a template project for python projects.
 
 ## Usage
 
-- Clone the repo and delete the `.git` folder
+- Clone the repo and delete the `.git/` folder
 - Change the `template` folder to your `projectname`.
 - Replace all `template` word in `setup.py` with your `projectname`.
 
