@@ -4,7 +4,7 @@ This is a template project for python projects.
 
 ## Features
 
-- Pre-commit with `isort`, `yapf`, `flake8`, `trailing-whitespace`, etc.
+- Pre-commit with `isort`, `yapf`, `flake8`, `trailing-whitespace`, `markdown`, etc.
 - Setup script.
 
 ## Usage
